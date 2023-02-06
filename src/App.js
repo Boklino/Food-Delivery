@@ -40,7 +40,7 @@ function App() {
           <div class="inline-block relative w-full pb-0 align-middle">
             {" "}
             <svg
-              class="w-5 h-5 absolute -translate-y-8 ml-6 "
+              class="w-5 h-5 absolute -translate-y-11 ml-6 "
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 45 45"
             >
